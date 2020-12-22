@@ -1,0 +1,14 @@
+#f-string
+value_1 = 1
+value_2 = "a"
+value_3 = 2
+value_4 = True
+value_5 = 4.1
+
+
+print(f"1st value is {value_1} and its type is", type(value_1))
+print(f"2nd value is {value_2} and its type is", type(value_2))
+print(f"3rd value is {value_3} and its type is", type(value_3))
+print(f"4th value is {value_4} and its type is", type(value_4))
+print(f"5th value is {value_5} and its type is", type(value_5)) 
+
